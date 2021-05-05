@@ -1,0 +1,70 @@
+
+
+p.paragraph {
+    font-size: 50px ;
+    line-height: 62px ;
+    font-family: "roboto" ;
+    
+}
+
+h2  {
+     text-align: center;
+     color: blue;
+     text-shadow: rgb(245, 6, 6);
+     text-decoration-line: overline ;
+     width: 300px;
+     border: 10px solid green;
+     padding: 5px;
+     margin: 5px;
+     
+}
+ 
+.nav {
+    background-color: rgb(80, 3, 20); 
+    list-style-type: georgian;
+    text-align: center;
+    margin: 10;
+    padding: 10;
+  }
+body {
+  color: red ;  
+  background-color: rgb(212, 238, 96);
+  font-family: sans-serif;
+}
+table, td, th {
+  border: 1px solid rgb(43, 122, 41);
+}
+table {
+  width: 10%;
+  border-collapse: collapse;
+}
+li{
+  display: inline;
+}
+input {
+  width: 100%;
+}
+.x {
+  background-color: blueviolet;
+  text-align: center;
+  color :blue;
+
+}
+#i {
+  color:green;
+}
+.v {
+  background-color: blueviolet;
+  text-align: center;
+  color: blue;
+
+}
+.profile {
+  display:block ;
+  background-color: cornsilk;
+  justify-content:space-between;
+  margin: 20px 500 ;
+}
+
+
+
